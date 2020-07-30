@@ -1,0 +1,26 @@
+[
+    {
+        "title":"SAREE DESIGN",
+       "material":"Cotton Silk",
+       "color":"Peach",
+        "Price":"3000"
+    },
+    {
+        "title":"SAREE BLOUSE DESIGN",
+       "material":"Rose Silk",
+       "color":"Black",
+        "Price":"1900"
+    },
+    {
+        "title":"KURTI DESIGN",
+       "material":"China Silk",
+       "color":"Dark Blue",
+        "Price":"2000"
+    },
+    {
+        "title":"BEAD DESIGN",
+       "material":"China Silk",
+       "color":"Red",
+        "Price":"3000"
+    }
+]
